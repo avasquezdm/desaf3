@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:  "raleway";
+}
+
+/* para poder usar Raleway, elegir del listado y pegar en <head>: https://fonts.google.com/specimen/Raleway?query=raleway */
+
+header {
+    font-size: 25px;
+} 
+
+.img-header {
+    width: 100%;
+}
+
+.page-title {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-s1 {
+    margin: 40px;
+}
+
+.img-iguana-mid {
+    width: 400px;
+    height: 237px;
+}
+
+section {
+    height: 350px;
+}
+
+.features {
+    text-align: center;
+}
+
+.features-title {
+    font-size:40px; 
+    padding:60px 0px 30px 0px;
+}
+
+.icons {
+    width:240px;
+    padding: 0px 20px 0px 20px;
+}
+
+span {
+    font-size: 24px;
+}
+
+.paragraph {
+    height: 200;
+    width: 475px;
+    opacity: 0.74;
+}
+
+.img-iguana-small {
+    width: 316px;
+    height: 210px;
+    margin: 0px 10px 0px 10px;
+}
+
+.marron-bg {
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.95;
+}
+
+footer {
+    text-align: center;
+    height: 102px;
+    width: 100%;
+}
+
+.footer-p {
+    opacity: 0.94;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+a {
+    color: white;
+}
